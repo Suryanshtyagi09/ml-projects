@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @Suryanshtyagi09
-- 👀 I’m interested in ai ml.
-- 🌱 I’m currently learning ml projects.
+1. HI I AM SURYANSH TYAGI.
+2. I AM AN BTECH COMPUTER SCIENCE UNDERGRADUATE.
+3. MY DOMAIN IS MACHINE LEARNING AND ARTIFICIAL INTELLIGENCE.
+4. I AM CURRENTLY WORKING ON ML PROJECTS.
+5. I WOULD BE EXCITING TO CONNECT WITH ME ON LINKED-www.linkedin.com/in/suryansh-tyagi-6151ab279
 
 
 <!---
